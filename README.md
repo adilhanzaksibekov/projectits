@@ -1,16 +1,9 @@
-# Project Title
+# Адилхан проект
 
-## Description
-This project contains a menu management system implemented in Python. The `menu.py` file handles menu operations including displaying menu options, adding items, and removing items from the menu.
+## Описание
 
-## Usage Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/adilhanzaksibekov/projectits.git
-   cd projectits
-   ```
-2. Run the `menu.py` file:
-   ```bash
-   python menu.py
-   ```
-3. Follow the on-screen prompts to use the menu management system.
+Этот проект содержит систему управления меню, реализованную на Python. Файл `menu.py` обрабатывает операции меню, включая отображение параметров меню, добавление элементов и удаление пунктов из меню.
+
+## Инструкции по использованию
+
+Следуйте подсказкам на экране, чтобы использовать систему управления меню.
